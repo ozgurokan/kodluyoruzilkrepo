@@ -27,7 +27,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 
 ## Licance
-This project is licensed under the [MIT](LICENSE) License 
+[MIT](LICENSE) License 
 
 ## Patika.dev
 [www.patika.dev](www.patika.dev)
